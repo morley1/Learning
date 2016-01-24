@@ -1,0 +1,5 @@
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe.config
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Release\BinaryTree.pdb
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\obj\Release\BinaryTree.exe
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\obj\Release\BinaryTree.pdb

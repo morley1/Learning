@@ -1,0 +1,7 @@
+C:\Users\bania\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\pawel\Dropbox\Lab\Btree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
